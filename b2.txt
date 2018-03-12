@@ -1,0 +1,3268 @@
+Player 1: E i
+o |                              
+n |                              
+m |                              
+l |                              
+k |                              
+j |                              
+i |                           X  
+h |                              
+g |                              
+f |                              
+e |                              
+d |                              
+c |                              
+b |                              
+a |                              
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: B d
+o |                              
+n |                              
+m |                              
+l |                              
+k |                              
+j |                              
+i |                           X  
+h |                              
+g |                              
+f |                              
+e |                              
+d |                     O        
+c |                              
+b |                              
+a |                              
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 3 b
+o |                              
+n |                              
+m |                              
+l |                              
+k |                              
+j |                              
+i |                           X  
+h |                              
+g |                              
+f |                              
+e |                              
+d |                     O        
+c |                              
+b |     X                        
+a |                              
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: A a
+o |                              
+n |                              
+m |                              
+l |                              
+k |                              
+j |                              
+i |                           X  
+h |                              
+g |                              
+f |                              
+e |                              
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 7 m
+o |                              
+n |                              
+m |             X                
+l |                              
+k |                              
+j |                              
+i |                           X  
+h |                              
+g |                              
+f |                              
+e |                              
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 3 e
+o |                              
+n |                              
+m |             X                
+l |                              
+k |                              
+j |                              
+i |                           X  
+h |                              
+g |                              
+f |                              
+e |     O                        
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 1 j
+o |                              
+n |                              
+m |             X                
+l |                              
+k |                              
+j | X                            
+i |                           X  
+h |                              
+g |                              
+f |                              
+e |     O                        
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 9 f
+o |                              
+n |                              
+m |             X                
+l |                              
+k |                              
+j | X                            
+i |                           X  
+h |                              
+g |                              
+f |                 O            
+e |     O                        
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 4 j
+o |                              
+n |                              
+m |             X                
+l |                              
+k |                              
+j | X     X                      
+i |                           X  
+h |                              
+g |                              
+f |                 O            
+e |     O                        
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 7 m
+o |                              
+n |                              
+m |             O                
+l |                              
+k |                              
+j | X     X                      
+i |                           X  
+h |                              
+g |                              
+f |                 O            
+e |     O                        
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: E l
+o |                              
+n |                              
+m |             O                
+l |                           X  
+k |                              
+j | X     X                      
+i |                           X  
+h |                              
+g |                              
+f |                 O            
+e |     O                        
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 7 f
+o |                              
+n |                              
+m |             O                
+l |                           X  
+k |                              
+j | X     X                      
+i |                           X  
+h |                              
+g |                              
+f |             O   O            
+e |     O                        
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: A m
+o |                              
+n |                              
+m |             O     X          
+l |                           X  
+k |                              
+j | X     X                      
+i |                           X  
+h |                              
+g |                              
+f |             O   O            
+e |     O                        
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 6 g
+o |                              
+n |                              
+m |             O     X          
+l |                           X  
+k |                              
+j | X     X                      
+i |                           X  
+h |                              
+g |           O                  
+f |             O   O            
+e |     O                        
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: C h
+o |                              
+n |                              
+m |             O     X          
+l |                           X  
+k |                              
+j | X     X                      
+i |                           X  
+h |                       X      
+g |           O                  
+f |             O   O            
+e |     O                        
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 6 o
+o |           O                  
+n |                              
+m |             O     X          
+l |                           X  
+k |                              
+j | X     X                      
+i |                           X  
+h |                       X      
+g |           O                  
+f |             O   O            
+e |     O                        
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 8 o
+o |           O   X              
+n |                              
+m |             O     X          
+l |                           X  
+k |                              
+j | X     X                      
+i |                           X  
+h |                       X      
+g |           O                  
+f |             O   O            
+e |     O                        
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 3 l
+o |           O   X              
+n |                              
+m |             O     X          
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                           X  
+h |                       X      
+g |           O                  
+f |             O   O            
+e |     O                        
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: E e
+o |           O   X              
+n |                              
+m |             O     X          
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                           X  
+h |                       X      
+g |           O                  
+f |             O   O            
+e |     O                     X  
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 7 g
+o |           O   X              
+n |                              
+m |             O     X          
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                           X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O                     X  
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 9 i
+o |           O   X              
+n |                              
+m |             O     X          
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O                     X  
+d |                     O        
+c |                              
+b |     X                        
+a |                   O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 4 a
+o |           O   X              
+n |                              
+m |             O     X          
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O                     X  
+d |                     O        
+c |                              
+b |     X                        
+a |       O           O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: C h
+o |           O   X              
+n |                              
+m |             O     X          
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O                     X  
+d |                     O        
+c |                              
+b |     X                        
+a |       O           O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 9 a
+o |           O   X              
+n |                              
+m |             O     X          
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O                     X  
+d |                     O        
+c |                              
+b |     X                        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: A c
+o |           O   X              
+n |                              
+m |             O     X          
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O                     X  
+d |                     O        
+c |                   X          
+b |     X                        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 6 d
+o |           O   X              
+n |                              
+m |             O     X          
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O                     X  
+d |           O         O        
+c |                   X          
+b |     X                        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 9 e
+o |           O   X              
+n |                              
+m |             O     X          
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X         X  
+d |           O         O        
+c |                   X          
+b |     X                        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: E m
+o |           O   X              
+n |                              
+m |             O     X       O  
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X         X  
+d |           O         O        
+c |                   X          
+b |     X                        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 8 m
+o |           O   X              
+n |                              
+m |             O X   X       O  
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X         X  
+d |           O         O        
+c |                   X          
+b |     X                        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: B c
+o |           O   X              
+n |                              
+m |             O X   X       O  
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X         X  
+d |           O         O        
+c |                   X O        
+b |     X                        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: E e
+o |           O   X              
+n |                              
+m |             O X   X       O  
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X         X  
+d |           O         O        
+c |                   X O        
+b |     X                        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: A b
+o |           O   X              
+n |                              
+m |             O X   X       O  
+l |     O                     X  
+k |                              
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X         X  
+d |           O         O        
+c |                   X O        
+b |     X             O          
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: A k
+o |           O   X              
+n |                              
+m |             O X   X       O  
+l |     O                     X  
+k |                   X          
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X         X  
+d |           O         O        
+c |                   X O        
+b |     X             O          
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 3 d
+o |           O   X              
+n |                              
+m |             O X   X       O  
+l |     O                     X  
+k |                   X          
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X         X  
+d |     O     O         O        
+c |                   X O        
+b |     X             O          
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 2 o
+o |   X       O   X              
+n |                              
+m |             O X   X       O  
+l |     O                     X  
+k |                   X          
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X         X  
+d |     O     O         O        
+c |                   X O        
+b |     X             O          
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: B b
+o |   X       O   X              
+n |                              
+m |             O X   X       O  
+l |     O                     X  
+k |                   X          
+j | X     X                      
+i |                 X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X         X  
+d |     O     O         O        
+c |                   X O        
+b |     X             O O        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 7 i
+o |   X       O   X              
+n |                              
+m |             O X   X       O  
+l |     O                     X  
+k |                   X          
+j | X     X                      
+i |             X   X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X         X  
+d |     O     O         O        
+c |                   X O        
+b |     X             O O        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: D e
+o |   X       O   X              
+n |                              
+m |             O X   X       O  
+l |     O                     X  
+k |                   X          
+j | X     X                      
+i |             X   X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |     X             O O        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: B b
+o |   X       O   X              
+n |                              
+m |             O X   X       O  
+l |     O                     X  
+k |                   X          
+j | X     X                      
+i |             X   X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |     X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: A b
+o |   X       O   X              
+n |                              
+m |             O X   X       O  
+l |     O                     X  
+k |                   X          
+j | X     X                      
+i |             X   X         X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |     X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: D i
+o |   X       O   X              
+n |                              
+m |             O X   X       O  
+l |     O                     X  
+k |                   X          
+j | X     X                      
+i |             X   X       X X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |     X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 7 n
+o |   X       O   X              
+n |             O                
+m |             O X   X       O  
+l |     O                     X  
+k |                   X          
+j | X     X                      
+i |             X   X       X X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |     X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 5 k
+o |   X       O   X              
+n |             O                
+m |             O X   X       O  
+l |     O                     X  
+k |         X         X          
+j | X     X                      
+i |             X   X       X X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |     X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 2 b
+o |   X       O   X              
+n |             O                
+m |             O X   X       O  
+l |     O                     X  
+k |         X         X          
+j | X     X                      
+i |             X   X       X X  
+h |                       X      
+g |           O O                
+f |             O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: C g
+o |   X       O   X              
+n |             O                
+m |             O X   X       O  
+l |     O                     X  
+k |         X         X          
+j | X     X                      
+i |             X   X       X X  
+h |                       X      
+g |           O O         X      
+f |             O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 6 f
+o |   X       O   X              
+n |             O                
+m |             O X   X       O  
+l |     O                     X  
+k |         X         X          
+j | X     X                      
+i |             X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: A j
+o |   X       O   X              
+n |             O                
+m |             O X   X       O  
+l |     O                     X  
+k |         X         X          
+j | X     X           X          
+i |             X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: E k
+o |   X       O   X              
+n |             O                
+m |             O X   X       O  
+l |     O                     X  
+k |         X         X       O  
+j | X     X           X          
+i |             X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: A o
+o |   X       O   X   X          
+n |             O                
+m |             O X   X       O  
+l |     O                     X  
+k |         X         X       O  
+j | X     X           X          
+i |             X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 2 i
+o |   X       O   X   X          
+n |             O                
+m |             O X   X       O  
+l |     O                     X  
+k |         X         X       O  
+j | X     X           X          
+i |   O         X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 7 m
+o |   X       O   X   X          
+n |             O                
+m |             X X   X       O  
+l |     O                     X  
+k |         X         X       O  
+j | X     X           X          
+i |   O         X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: D j
+o |   X       O   X   X          
+n |             O                
+m |             X X   X       O  
+l |     O                     X  
+k |         X         X       O  
+j | X     X           X     O    
+i |   O         X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 6 m
+o |   X       O   X   X          
+n |             O                
+m |           X X X   X       O  
+l |     O                     X  
+k |         X         X       O  
+j | X     X           X     O    
+i |   O         X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 9 l
+o |   X       O   X   X          
+n |             O                
+m |           X X X   X       O  
+l |     O           O         X  
+k |         X         X       O  
+j | X     X           X     O    
+i |   O         X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 5 l
+o |   X       O   X   X          
+n |             O                
+m |           X X X   X       O  
+l |     O   X       O         X  
+k |         X         X       O  
+j | X     X           X     O    
+i |   O         X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X             O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 4 b
+o |   X       O   X   X          
+n |             O                
+m |           X X X   X       O  
+l |     O   X       O         X  
+k |         X         X       O  
+j | X     X           X     O    
+i |   O         X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 5 i
+o |   X       O   X   X          
+n |             O                
+m |           X X X   X       O  
+l |     O   X       O         X  
+k |         X         X       O  
+j | X     X           X     O    
+i |   O     X   X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: B d
+o |   X       O   X   X          
+n |             O                
+m |           X X X   X       O  
+l |     O   X       O         X  
+k |         X         X       O  
+j | X     X           X     O    
+i |   O     X   X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: B n
+o |   X       O   X   X          
+n |             O       X        
+m |           X X X   X       O  
+l |     O   X       O         X  
+k |         X         X       O  
+j | X     X           X     O    
+i |   O     X   X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: A k
+o |   X       O   X   X          
+n |             O       X        
+m |           X X X   X       O  
+l |     O   X       O         X  
+k |         X         O       O  
+j | X     X           X     O    
+i |   O     X   X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 3 l
+o |   X       O   X   X          
+n |             O       X        
+m |           X X X   X       O  
+l |     X   X       O         X  
+k |         X         O       O  
+j | X     X           X     O    
+i |   O     X   X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: D l
+o |   X       O   X   X          
+n |             O       X        
+m |           X X X   X       O  
+l |     X   X       O       O X  
+k |         X         O       O  
+j | X     X           X     O    
+i |   O     X   X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 1 i
+o |   X       O   X   X          
+n |             O       X        
+m |           X X X   X       O  
+l |     X   X       O       O X  
+k |         X         O       O  
+j | X     X           X     O    
+i | X O     X   X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X        
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: F b
+o |   X       O   X   X          
+n |             O       X        
+m |           X X X   X       O  
+l |     X   X       O       O X  
+k |         X         O       O  
+j | X     X           X     O    
+i | X O     X   X   X       X X  
+h |                       X      
+g |           O O         X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: B g
+o |   X       O   X   X          
+n |             O       X        
+m |           X X X   X       O  
+l |     X   X       O       O X  
+k |         X         O       O  
+j | X     X           X     O    
+i | X O     X   X   X       X X  
+h |                       X      
+g |           O O       X X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 3 k
+o |   X       O   X   X          
+n |             O       X        
+m |           X X X   X       O  
+l |     X   X       O       O X  
+k |     O   X         O       O  
+j | X     X           X     O    
+i | X O     X   X   X       X X  
+h |                       X      
+g |           O O       X X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 6 k
+o |   X       O   X   X          
+n |             O       X        
+m |           X X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O       O  
+j | X     X           X     O    
+i | X O     X   X   X       X X  
+h |                       X      
+g |           O O       X X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 6 m
+o |   X       O   X   X          
+n |             O       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O       O  
+j | X     X           X     O    
+i | X O     X   X   X       X X  
+h |                       X      
+g |           O O       X X      
+f |           O O   O            
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: B f
+o |   X       O   X   X          
+n |             O       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O       O  
+j | X     X           X     O    
+i | X O     X   X   X       X X  
+h |                       X      
+g |           O O       X X      
+f |           O O   O   X        
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: F j
+o |   X       O   X   X          
+n |             O       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O       O  
+j | X     X           X     O   O
+i | X O     X   X   X       X X  
+h |                       X      
+g |           O O       X X      
+f |           O O   O   X        
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: B k
+o |   X       O   X   X          
+n |             O       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O X     O  
+j | X     X           X     O   O
+i | X O     X   X   X       X X  
+h |                       X      
+g |           O O       X X      
+f |           O O   O   X        
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 1 f
+o |   X       O   X   X          
+n |             O       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O X     O  
+j | X     X           X     O   O
+i | X O     X   X   X       X X  
+h |                       X      
+g |           O O       X X      
+f | O         O O   O   X        
+e |     O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 2 e
+o |   X       O   X   X          
+n |             O       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O X     O  
+j | X     X           X     O   O
+i | X O     X   X   X       X X  
+h |                       X      
+g |           O O       X X      
+f | O         O O   O   X        
+e |   X O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 3 g
+o |   X       O   X   X          
+n |             O       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O X     O  
+j | X     X           X     O   O
+i | X O     X   X   X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O         O O   O   X        
+e |   X O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 3 n
+o |   X       O   X   X          
+n |     X       O       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O X     O  
+j | X     X           X     O   O
+i | X O     X   X   X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O         O O   O   X        
+e |   X O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 3 j
+o |   X       O   X   X          
+n |     X       O       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X   X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O         O O   O   X        
+e |   X O           X       O X  
+d |     O     O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 5 d
+o |   X       O   X   X          
+n |     X       O       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X   X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O         O O   O   X        
+e |   X O           X       O X  
+d |     O   X O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 2 f
+o |   X       O   X   X          
+n |     X       O       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X   X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 7 n
+o |   X       O   X   X          
+n |     X       X       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X   X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 8 i
+o |   X       O   X   X          
+n |     X       X       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: D o
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O         O        
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: E d
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O         O     O  
+c |                   X O        
+b |   O X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 2 b
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |     X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O         O     O  
+c |                   X O        
+b |   X X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 2 l
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O         O     O  
+c |                   X O        
+b |   X X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: E l
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O         O     O  
+c |                   X O        
+b |   X X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 7 d
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O O       O     O  
+c |                   X O        
+b |   X X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 3 n
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O O       O     O  
+c |                   X O        
+b |   X X O           O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 8 b
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O O       O     O  
+c |                   X O        
+b |   X X O       O   O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: E c
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O O       O     O  
+c |                   X O     X  
+b |   X X O       O   O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 9 l
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O O       O     O  
+c |                   X O     X  
+b |   X X O       O   O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: F c
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d |     O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 1 d
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X  
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d | O   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: F i
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d | O   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X       O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: C b
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O       O O   O   X        
+e |   X O           X       O X  
+d | O   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 4 f
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O   X   O O   O   X        
+e |   X O           X       O X  
+d | O   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: B d
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O   X   O O   O   X        
+e |   X O           X       O X  
+d | O   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 5 e
+o |   X       O   X   X     X    
+n |     X       X       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O   X   O O   O   X        
+e |   X O   X       X       O X  
+d | O   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 7 n
+o |   X       O   X   X     X    
+n |     X       O       X        
+m |           O X X   X       O  
+l |   O X   X       O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O   X   O O   O   X        
+e |   X O   X       X       O X  
+d | O   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 7 l
+o |   X       O   X   X     X    
+n |     X       O       X        
+m |           O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O   X   O O   O   X        
+e |   X O   X       X       O X  
+d | O   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 2 f
+o |   X       O   X   X     X    
+n |     X       O       X        
+m |           O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O   X   O O   O   X        
+e |   X O   X       X       O X  
+d | O   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 1 d
+o |   X       O   X   X     X    
+n |     X       O       X        
+m |           O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O   X   O O   O   X        
+e |   X O   X       X       O X  
+d | X   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: A k
+o |   X       O   X   X     X    
+n |     X       O       X        
+m |           O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O   X   O O   O   X        
+e |   X O   X       X       O X  
+d | X   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 1 e
+o |   X       O   X   X     X    
+n |     X       O       X        
+m |           O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O   X   O O   O   X        
+e | X X O   X       X       O X  
+d | X   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 4 m
+o |   X       O   X   X     X    
+n |     X       O       X        
+m |       O   O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O   X   O O   O   X        
+e | X X O   X       X       O X  
+d | X   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 8 f
+o |   X       O   X   X     X    
+n |     X       O       X        
+m |       O   O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 5 m
+o |   X       O   X   X     X    
+n |     X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 3 l
+o |   X       O   X   X     X    
+n |     X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X      
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: F h
+o |   X       O   X   X     X    
+n |     X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X     O
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 1 e
+o |   X       O   X   X     X    
+n |     X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       X     O
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: C h
+o |   X       O   X   X     X    
+n |     X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 1 n
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O   X O O       O     O  
+c |                   X O     X X
+b |   X X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 2 b
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O   X O O       O     O  
+c |                   X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 7 c
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O   X O O       O     O  
+c |             X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 4 d
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O O X O O       O     O  
+c |             X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: E l
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O O X O O       O     O  
+c |             X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 2 c
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O O X O O       O     O  
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 5 l
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O O X O O       O     O  
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: F d
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X       O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: A e
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O       X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: A g
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 6 f
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | X   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 1 j
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X       O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: B m
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X X     O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: D j
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X X     O  
+l |   O X   X   X   O       O X  
+k |     O   X X       O X     O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 1 k
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X X     O  
+l |   O X   X   X   O       O X  
+k | X   O   X X       O X     O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 9 f
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X X     O  
+l |   O X   X   X   O       O X  
+k | X   O   X X       O X     O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 5 l
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X X     O  
+l |   O X   X   X   O       O X  
+k | X   O   X X       O X     O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 8 l
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X X     O  
+l |   O X   X   X O O       O X  
+k | X   O   X X       O X     O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: C k
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X X     O  
+l |   O X   X   X O O       O X  
+k | X   O   X X       O X X   O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 6 l
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X X     O  
+l |   O X   X O X O O       O X  
+k | X   O   X X       O X X   O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O     O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: D b
+o |   X       O   X   X     X    
+n | X   X       O       X        
+m |       O O O X X   X X     O  
+l |   O X   X O X O O       O X  
+k | X   O   X X       O X X   O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: B o
+o |   X       O   X   X O   X    
+n | X   X       O       X        
+m |       O O O X X   X X     O  
+l |   O X   X O X O O       O X  
+k | X   O   X X       O X X   O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 9 l
+o |   X       O   X   X O   X    
+n | X   X       O       X        
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: E n
+o |   X       O   X   X O   X    
+n | X   X       O       X     O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |     O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 2 g
+o |   X       O   X   X O   X    
+n | X   X       O       X     O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X           X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |   X O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 7 j
+o |   X       O   X   X O   X    
+n | X   X       O       X     O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     O   O
+i | X O     X   X O X       X X X
+h |                       O     O
+g |   X O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: F j
+o |   X       O   X   X O   X    
+n | X   X       O       X     O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     O   X
+i | X O     X   X O X       X X X
+h |                       O     O
+g |   X O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O         X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 3 c
+o |   X       O   X   X O   X    
+n | X   X       O       X     O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     O   X
+i | X O     X   X O X       X X X
+h |                       O     O
+g |   X O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 8 i
+o |   X       O   X   X O   X    
+n | X   X       O       X     O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     O   X
+i | X O     X   X X X       X X X
+h |                       O     O
+g |   X O     O O     O X X      
+f | O O   X   X O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 6 f
+o |   X       O   X   X O   X    
+n | X   X       O       X     O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     O   X
+i | X O     X   X X X       X X X
+h |                       O     O
+g |   X O     O O     O X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 1 o
+o | X X       O   X   X O   X    
+n | X   X       O       X     O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     O   X
+i | X O     X   X X X       X X X
+h |                       O     O
+g |   X O     O O     O X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 2 o
+o | X O       O   X   X O   X    
+n | X   X       O       X     O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     O   X
+i | X O     X   X X X       X X X
+h |                       O     O
+g |   X O     O O     O X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: D n
+o | X O       O   X   X O   X    
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     O   X
+i | X O     X   X X X       X X X
+h |                       O     O
+g |   X O     O O     O X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 6 i
+o | X O       O   X   X O   X    
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     O   X
+i | X O     X O X X X       X X X
+h |                       O     O
+g |   X O     O O     O X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: D j
+o | X O       O   X   X O   X    
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     X   X
+i | X O     X O X X X       X X X
+h |                       O     O
+g |   X O     O O     O X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: D o
+o | X O       O   X   X O   O    
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     X   X
+i | X O     X O X X X       X X X
+h |                       O     O
+g |   X O     O O     O X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 9 e
+o | X O       O   X   X O   O    
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     X   X
+i | X O     X O X X X       X X X
+h |                       O     O
+g |   X O     O O     O X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 8 h
+o | X O       O   X   X O   O    
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     O
+g |   X O     O O     O X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: B g
+o | X O       O   X   X O   O    
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X     O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     O
+g |   X O     O O     O X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 5 j
+o | X O       O   X   X O   O    
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X O   O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     O
+g |   X O     O O     O X X      
+f | O O   X   O O X O   X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: A f
+o | X O       O   X   X O   O    
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X O   O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     O
+g |   X O     O O     O X X      
+f | O O   X   O O X O X X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: F o
+o | X O       O   X   X O   O   O
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X O   O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     O
+g |   X O     O O     O X X      
+f | O O   X   O O X O X X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: F h
+o | X O       O   X   X O   O   O
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X O   O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X   O O X O X X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 5 f
+o | X O       O   X   X O   O   O
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X O   O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |       O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 3 a
+o | X O       O   X   X O   O   O
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X X   O  
+j | O   O X O   O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |     X O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: C k
+o | X O       O   X   X O   O   O
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |     X O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 5 i
+o | X O       O   X   X O   O   O
+n | X   X       O       X   X O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |     X O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: D n
+o | X O       O   X   X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X       X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |     X O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 8 e
+o | X O       O   X   X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X     X X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |     X O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 8 o
+o | X O       O   O   X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X     X X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |     X O         O O          
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: D a
+o | X O       O   O   X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     X     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X     X X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |     X O         O O     X    
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: A j
+o | X O       O   O   X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     O     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X     X X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |     X O         O O     X    
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 9 o
+o | X O       O   O X X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     O     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X     X X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O X O       O   O X O X   O
+a |     X O         O O     X    
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 3 b
+o | X O       O   O X X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     O     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X     X X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O O O       O   O X O X   O
+a |     X O         O O     X    
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 4 j
+o | X O       O   O X X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     O     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X     X X X     O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O O O       O   O X O X   O
+a |     X O         O O     X    
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: C e
+o | X O       O   O X X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     O     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X     X X X   O O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O O O       O   O X O X   O
+a |     X O         O O     X    
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 7 c
+o | X O       O   O X X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X       O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     O     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X     X X X   O O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O O O       O   O X O X   O
+a |     X O         O O     X    
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: B l
+o | X O       O   O X X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X   O   O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     O     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X     X X X   O O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O O O       O   O X O X   O
+a |     X O         O O     X    
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 1 i
+o | X O       O   O X X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X   O   O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     O     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X     X X X   O O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O O O       O   O X O X   O
+a |     X O         O O     X    
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 6 o
+o | X O       O   O X X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X   O   O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     O     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X     X X X   O O X  
+d | X   O O X O O       O     O O
+c |   O O       X     X O     X X
+b |   O O O       O   O X O X   O
+a |     X O         O O     X    
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 1: 5 c
+o | X O       O   O X X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X   O   O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     O     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O   X     X X X   O O X  
+d | X   O O X O O       O     O O
+c |   O O   X   X     X O     X X
+b |   O O O       O   O X O X   O
+a |     X O         O O     X    
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+
+Player 2: 4 e
+o | X O       O   O X X O   O   O
+n | X   X       O       X   O O  
+m |       O O O X X   X X     O  
+l |   O X   X O X O X   O   O X  
+k | X   O   X X       O X O   O  
+j | O   O X O   O     O     X   X
+i | X O     X O X X X       X X X
+h |               O       O     X
+g |   X O     O O     O X X      
+f | O O   X O O O X O X X        
+e | X X O O X     X X X   O O X  
+d | X   O O X O O       O     O O
+c |   O O   X   X     X O     X X
+b |   O O O       O   O X O X   O
+a |     X O         O O     X    
+    - - - - - - - - - - - - - - -
+    1 2 3 4 5 6 7 8 9 A B C D E F
+

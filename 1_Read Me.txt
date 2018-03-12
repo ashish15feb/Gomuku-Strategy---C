@@ -1,0 +1,47 @@
+Sat Dec  9 13:26:18 EST 2017
+Some new files are posted:
+a2.out:	executable file. No need to run it as it always create b2.txt and m2.txt
+b2.txt: the board information for the game.
+m2.txt: the move information for the game.
+proj2.c: the source code which compiles to a2.out. 
+
+Instructor.h: the header file with function protypes used in proj2.c
+Instructor.o: the object code compiled from Instructor.c (which is hidden)
+
+Student.h: a sample header file for the functions that students need to implement
+Student.c: a sample implementation of the functions in Student.h
+Student.o: the object code obtained from Student.c
+
+Student2.h, .c, .o: the same as above, for player 2. 
+**********************************************************************************
+Here are the steps to complete the project:
+1. read all the .h and .c files carefully.
+2. copy the following files to your directory
+	proj2.c, Instructor.o, Instructor.h, Student.h, Student.c, Student2.h, Student2.c
+3. Compile these codes as follows (this is known as separate compilation)
+gcc -c Student.c -o Student.o
+gcc -c Student2.c -o Student2.o
+gcc proj2.c Student.o Student2.o Instructor.o -o a.out
+
+4. develop strategy for player 1 (X) and implement it in Student.h and Student.c 
+	Repeat the separate compilatin in step 3 to test your code and strategy
+	Your strategy should win over the random one in Student2 easily (in 5 or 6 steps).
+ 
+5. develop strategy for player 2 (O) and implement it in Student2.h and Student2.c 
+	you can (and you are recommended) to use the same strategy for both players,
+	in that case, you only need to copy the two files, but make sure that the
+	function name needs to be changed to getMove2(), and now you are playing O 
+	instead of X.
+   Note that the silly random strategy in Student.c and Stuent2.c works the same way
+	for both players, so it does not consider X or O. In your strategy, of course
+	you should consider whether you are X or O. If you are using the same strategy
+	for player 1 and player 2, at least make sure that you change the X's and O's
+ 	when you copy from Student.c to Student2.c
+
+6. submit the following codes with the "submit" command. You have to submit one code at a time.
+	Student.h, Student.c, Student2.h, Student2.c
+   This means that you should not make any changes in proj2.c.  
+
+7. You can make any changes you want in Student.h, Student.c, Student2.h, and Student2.c.
+	The only thing that you cannot change is the function prototype of getMove() and 
+	getMove2().
